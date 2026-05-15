@@ -63,7 +63,7 @@ jupyter
 Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/srisoman20/spectral-bias-cnn>
 cd spectral-bias-cnn
 ```
 
