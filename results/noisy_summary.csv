@@ -1,0 +1,2 @@
+mode,final_train_loss,final_train_acc,final_test_loss,final_test_acc,training_time_sec,best_test_acc,best_epoch
+noisy,0.6476868437385559,0.7696,1.1297268721580505,0.6424,1115.45037484169,0.6527,8

@@ -1,0 +1,2 @@
+mode,final_train_loss,final_train_acc,final_test_loss,final_test_acc,training_time_sec,best_test_acc,best_epoch
+original,0.20411435477256776,0.92928,1.1699628231048584,0.7206,1005.019211769104,0.7223,9
