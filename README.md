@@ -36,7 +36,7 @@ spectral-bias-cnn/
 ├── figures/
 │   └── generated plots and misclassified examples
 └── .gitignore
-
+```
 
 ## Requirements
 
